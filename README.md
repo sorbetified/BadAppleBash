@@ -2,7 +2,7 @@
 
 Hi guys! I decided to make Bad Apple!! for BASH, because most attempts at making this project either:
 
-- A) Are to complicated
+- A) Are too complicated
 - B) Get desynced from audio (if there's any)
 - C) Have low frame rates
 
