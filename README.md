@@ -44,4 +44,4 @@ pressing ctrl+c onl stops mpv from playing the audio, not the video
 ## Credits:
 Credits to @kasidid2 for the video and audio for this project
 
-# thank u for looking at this :)
+thank u for looking at this :)
