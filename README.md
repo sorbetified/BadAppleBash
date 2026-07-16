@@ -6,6 +6,9 @@ Hi guys! I decided to make Bad Apple!! for BASH, because most attempts at making
 - B) Get desynced from audio (if there's any)
 - C) Have low frame rates
 
+Preview:
+![BadAppleBash demo](demo.gif)
+
 and the installation is ***DEAD SIMPLE***:
 
 1. First, install dependencies (May vary for other linux distributions, but with Debian-Based Systems):
