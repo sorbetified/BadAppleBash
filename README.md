@@ -28,7 +28,7 @@ git clone https://github.com/sorbetified/BadAppleBash.git
 cd BadAppleBash
 ```
 
-4. give bad-apple.sh Execute premissions:
+4. give bad-apple.sh Execute permissions:
 
 ```bash
 chmod +x bad-apple.sh
@@ -42,7 +42,7 @@ chmod +x bad-apple.sh
 
 and enjoy watching Bad Apple in your terminal :)
 ## Issue:
-pressing ctrl+c onl stops mpv from playing the audio, not the video
+pressing ’Ctrl+C’ only stops mpv from playing the audio, not the video
 
 ## Credits:
 Credits to @kasidid2 for the video and audio for this project
