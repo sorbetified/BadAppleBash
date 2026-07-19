@@ -40,9 +40,10 @@ chmod +x bad-apple.sh
 ./bad-apple.sh
 ```
 
-and enjoy watching Bad Apple in your terminal at 30FPS :)
-## Issue:
-pressing ’Ctrl+C’ only stops mpv from playing the audio, not the video
+and enjoy watching Bad Apple in your terminal at 30FPS with perfectly synced audio:)
+##  Known issues:
+pressing ’Ctrl+C’ only stops mpv from playing the audio, not the video.
+on low end or low performace devices and termux the video can get desynced, so reccomended for PC only.
 
 ## Credits:
 Credits to @kasidid2 for the video and audio for this project
