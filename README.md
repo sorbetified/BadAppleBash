@@ -11,11 +11,14 @@ Preview:
 
 and the installation is ***DEAD SIMPLE***:
 
-1. First, install dependencies (May vary for other linux distributions, but with Debian-Based Systems):
+1. First, install dependencies:
 
-```bash
-sudo apt install git mpv
-```
+- APT (Debian, Ubuntu, Mint):
+
+  ```bash
+  sudo apt install git mpv
+  ```
+
 
 2. Clone the Repo:
 
@@ -43,7 +46,7 @@ chmod +x bad-apple.sh
 and enjoy watching Bad Apple in your terminal at 30FPS with perfectly synced audio:)
 ##  Known issues:
 pressing ’Ctrl+C’ only stops mpv from playing the audio, not the video.
-on low end or low performace devices and termux the video can get desynced, so reccomended for PC only.
+on low end or low performance devices and termux the video can get desynced, so recommended for PC only.
 
 ## Credits:
 Credits to @kasidid2 for the video and audio for this project
