@@ -18,7 +18,10 @@ and the installation is ***DEAD SIMPLE***:
   ```bash
   sudo apt install git mpv
   ```
-
+- PacMan (Arch, CachyOS):
+  ```bash
+  sudo pacman -S git mpv
+  ```
 
 2. Clone the Repo:
 
