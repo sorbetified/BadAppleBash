@@ -28,7 +28,7 @@ git clone https://github.com/sorbetified/BadAppleBash.git
 cd BadAppleBash
 ```
 
-4. give bad-apple.sh Execute permissions:
+4. make bad-apple.sh executable:
 
 ```bash
 chmod +x bad-apple.sh
