@@ -24,7 +24,7 @@ and the installation is ***DEAD SIMPLE***:
   ```
 - Zypper (openSUSE):
   ```bash
-  sudo zypper in gut mpv
+  sudo zypper in git mpv
   ```
 
 2. Clone the Repo:
