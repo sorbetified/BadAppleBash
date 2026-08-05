@@ -22,6 +22,10 @@ and the installation is ***DEAD SIMPLE***:
   ```bash
   sudo pacman -S git mpv
   ```
+- Zypper (openSUSE):
+  ```bash
+  sudo zypper in gut mpv
+  ```
 
 2. Clone the Repo:
 
