@@ -9,7 +9,9 @@ Hi guys! I decided to make Bad Apple!! for BASH, because most attempts at making
 Preview:
 ![BadAppleBash demo](demo.gif)
 
-and the installation is ***DEAD SIMPLE***:
+
+## Installation
+the installation is ***DEAD SIMPLE***:
 
 1. First, install dependencies:
 
@@ -51,11 +53,11 @@ chmod +x bad-apple.sh
 ```
 
 and enjoy watching Bad Apple in your terminal at 30FPS with perfectly synced audio:)
-##  Known issues:
+##  Known issues
 - pressing ’Ctrl+C’ only stops mpv from playing the audio, not the video.
 - on low end or low performance devices and termux the video can get desynced with the audio, so recommended for PC only.
 
-## Credits:
+## Credits
 Credits to @kasidid2 on youtube for the video and audio for this project
 
 thank u for looking at this :)
